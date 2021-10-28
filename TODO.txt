@@ -1,0 +1,42 @@
+Nouns
+=====
+Board (buttons, borders)
+X
+O
+
+
+
+Verbs
+=====
+Click on square
+Mark square/update display
+Check for legality of move
+Check for win
+Win
+Lose
+
+
+
+Four objects to make:
+
+Gameboard
+Player1
+Player2
+Gameflow
+
+Gameboard
+=========
+Board array to store moves
+Function to update display
+
+
+Players
+=======
+
+
+
+Gameflow
+========
+Listen for click events
+If click is legal, change board array
+Check for win
